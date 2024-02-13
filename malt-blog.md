@@ -1,7 +1,6 @@
 Three.js ilə 3D Model Görsətmənin Ən Sürətli Yolu
 -------------------------------------------------
 Veb səhifələrində interaktivlik əlavə etmək istəyirsinizsə, Three.js sizin yanınızdadır :) Three.js, çox güclü bir 3D qrafika kitabxanasıdır və onun köməyi ilə veb səhifələrində 3D model göstərmək çox sadədir. Bu blogda, Three.js kitabxanasının necə istifadə ediləcəyini öyrənəcəyik.Məlumdur ki, Novruz bayramıdır və biz bayram münasibəti ilə saytımıza 3D səməni əlavə edəcəyik.
-
 ![](./images/12.jpg)
 
 * * *
