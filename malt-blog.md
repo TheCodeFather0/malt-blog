@@ -89,4 +89,5 @@ Artıq 3D modelimiz hazırdır.Modeli görmək üçün terminalda **`npx vite`**
 ![](./images/10.png)
 
 **Artıq 3D səməni modeli hazırdır.Ümid edirəm ki, sizin üçündə maraqlı oldu.Növbəti bloglarda görüşmək diləyi ilə**
+
 ![](./images/11.png)
